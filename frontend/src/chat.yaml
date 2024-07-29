@@ -1,0 +1,4 @@
+- message: Hello!
+- message: Enter your e-mail
+  type: String
+  name: email

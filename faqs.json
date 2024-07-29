@@ -1,0 +1,16 @@
+{
+    "faqs": [
+        {
+            "question": "What is your name?",
+            "answer": "I am your helpful bot."
+        },
+        {
+            "question": "What can you do?",
+            "answer": "I can answer your questions and provide useful information."
+        },
+        {
+            "question": "How do I reset my password?",
+            "answer": "To reset your password, go to the settings page and click on 'Reset Password'."
+        }
+    ]
+}
